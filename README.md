@@ -1,0 +1,1 @@
+In this project I used census data to predict an individuals income level.  I used random forest as my model since it had to handle categorical data. I chose to leave out some features, including sex because it made the model less accurate.  As a result this project resulted in 0.80 accuracy. 
